@@ -31,7 +31,6 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -68,8 +67,8 @@ Publish the website in the LocalHost.
 
     .cover-photo {
       width: 100%;
-      height: 60%;
-      background-image: url('beauty.jpg');
+      height: 70%;
+      background-image: url('123.jpg');
       background-size: cover;
       background-position: center;
       filter: grayscale(100%) contrast(1.1);
@@ -128,8 +127,8 @@ Publish the website in the LocalHost.
   <div class="book-cover">
     <div class="cover-photo"></div>
     <div class="info">
-      <div class="title">Arora's Journey</div>
-      <div class="author">by Nandhini N</div>
+      <div class="title">THE ONE PRINCE</div>
+      <div class="author">by Praveen Raj G</div>
       <div class="edition">Special Edition</div>
       <div class="publisher">A fairytale publication</div>
     </div>
@@ -139,8 +138,10 @@ Publish the website in the LocalHost.
 </html>
 
 
+
 ## OUTPUT:
-![alt text](<Screenshot 2025-05-10 165937.png>)
+
+![Alt text](Screenshot234543232.jpeg)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
